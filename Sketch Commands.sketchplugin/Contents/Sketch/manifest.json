@@ -22,10 +22,10 @@
       "script": "Align/Space Vertical.cocoascript"
     },
     {
-      "name": "Alpha…",
-      "identifier": "alpha…",
+      "name": "Alpha",
+      "identifier": "alpha",
       "shortcut": "",
-      "script": "Alpha/Alpha….cocoascript"
+      "script": "Alpha/Alpha.cocoascript"
     },
     {
       "name": "Duplicate Artboard Below",
@@ -64,10 +64,10 @@
       "script": "Export/All Artboards as PDF.cocoascript"
     },
     {
-      "name": "All Artboards as PNG in…",
-      "identifier": "allartboardsaspngin…",
+      "name": "All Artboards as PNG in",
+      "identifier": "allartboardsaspngin",
       "shortcut": "",
-      "script": "Export/All Artboards as PNG in….cocoascript"
+      "script": "Export/All Artboards as PNG in.cocoascript"
     },
     {
       "name": "All Artboards as PNG",
@@ -94,10 +94,10 @@
       "script": "Export/All Slices as PNG in ZIP.cocoascript"
     },
     {
-      "name": "All Slices as PNG in…",
-      "identifier": "allslicesaspngin…",
+      "name": "All Slices as PNG in",
+      "identifier": "allslicesaspngin",
       "shortcut": "",
-      "script": "Export/All Slices as PNG in….cocoascript"
+      "script": "Export/All Slices as PNG in.cocoascript"
     },
     {
       "name": "All Slices as PNG",
@@ -262,10 +262,10 @@
       "script": "Pages/Remove Current Page.cocoascript"
     },
     {
-      "name": "Set Name…",
-      "identifier": "setname…",
+      "name": "Set Name",
+      "identifier": "setname",
       "shortcut": "",
-      "script": "Pages/Set Name….cocoascript"
+      "script": "Pages/Set Name.cocoascript"
     },
     {
       "name": "Kitchen Sink",
@@ -304,10 +304,10 @@
       "script": "Position/Move Up 100px.cocoascript"
     },
     {
-      "name": "Set Position…",
-      "identifier": "setposition…",
+      "name": "Set Position",
+      "identifier": "setposition",
       "shortcut": "ctrl shift p",
-      "script": "Position/Set Position….cocoascript"
+      "script": "Position/Set Position.cocoascript"
     },
     {
       "name": "Swap Positions",
@@ -322,16 +322,16 @@
       "script": "Properties/Make Pill.cocoascript"
     },
     {
-      "name": "Rotation…",
-      "identifier": "rotation…",
+      "name": "Rotation",
+      "identifier": "rotation",
       "shortcut": "",
-      "script": "Properties/Rotation….cocoascript"
+      "script": "Properties/Rotation.cocoascript"
     },
     {
-      "name": "Set Radius…",
-      "identifier": "setradius…",
+      "name": "Set Radius",
+      "identifier": "setradius",
       "shortcut": "ctrl alt r",
-      "script": "Properties/Set Radius….cocoascript"
+      "script": "Properties/Set Radius.cocoascript"
     },
     {
       "name": "All Artboards in Page",
@@ -394,10 +394,10 @@
       "script": "Size/Height -100px.cocoascript"
     },
     {
-      "name": "Height…",
-      "identifier": "height…",
+      "name": "Height",
+      "identifier": "height",
       "shortcut": "ctrl alt h",
-      "script": "Size/Height….cocoascript"
+      "script": "Size/Height.cocoascript"
     },
     {
       "name": "Scale to 16-9",
@@ -412,10 +412,10 @@
       "script": "Size/Scale to 4-3.cocoascript"
     },
     {
-      "name": "Set Size…",
-      "identifier": "setsize…",
+      "name": "Set Size",
+      "identifier": "setsize",
       "shortcut": "ctrl s",
-      "script": "Size/Set Size….cocoascript"
+      "script": "Size/Set Size.cocoascript"
     },
     {
       "name": "Width +100px",
@@ -430,10 +430,10 @@
       "script": "Size/Width -100px.cocoascript"
     },
     {
-      "name": "Width…",
-      "identifier": "width…",
+      "name": "Width",
+      "identifier": "width",
       "shortcut": "ctrl w",
-      "script": "Size/Width….cocoascript"
+      "script": "Size/Width.cocoascript"
     },
     {
       "name": "Case Sentence case",
@@ -473,7 +473,7 @@
       {
         "title": "Alpha",
         "items": [
-          "alpha…"
+          "alpha"
         ]
       },
       {
@@ -495,12 +495,12 @@
         "title": "Export",
         "items": [
           "allartboardsaspdf",
-          "allartboardsaspngin…",
+          "allartboardsaspngin",
           "allartboardsaspng",
           "allartboardsassvg",
           "allslicesaspdf",
           "allslicesaspnginzip",
-          "allslicesaspngin…",
+          "allslicesaspngin",
           "allslicesaspng",
           "allslicesassvg",
           "copysvgpath",
@@ -548,7 +548,7 @@
           "addnewpage",
           "duplicatecurrentpage",
           "removecurrentpage",
-          "setname…"
+          "setname"
         ]
       },
       {
@@ -565,7 +565,7 @@
           "moveleft100px",
           "moveright100px",
           "moveup100px",
-          "setposition…",
+          "setposition",
           "swappositions"
         ]
       },
@@ -573,8 +573,8 @@
         "title": "Properties",
         "items": [
           "makepill",
-          "rotation…",
-          "setradius…"
+          "rotation",
+          "setradius"
         ]
       },
       {
@@ -595,13 +595,13 @@
           "equalizewidthup",
           "height+100px",
           "height-100px",
-          "height…",
+          "height",
           "scaleto16-9",
           "scaleto4-3",
-          "setsize…",
+          "setsize",
           "width+100px",
           "width-100px",
-          "width…"
+          "width"
         ]
       },
       {
